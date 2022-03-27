@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">groupe3</string>
+    <string name="bouton_nouvelle_partie">New Game</string>
+    <string name="bouton_score">Score</string>
+    <string name="bouton_effacer">Clear</string>
+    <string name="tool_bar_calcul_mental">Mental Calculation</string>
+    <string name="tool_bar_nombre_erreur">POSSIBLE ERROR</string>
+    <string name="toolbar_nettoyer">Clear</string>
+    <string name="toolbar_calculer">Compute</string>
+    <string name="ERREUR_TROP_GRAND">Value too high</string>
+    <string name="ERREUR_INCOMPLET">Incomplete compute</string>
+    <string name="ERREUR_DIVISION_ZERO">Divide by zero</string>
+    <string name="SCOREBOARD">Scoreboard</string>
+
+
+
+</resources>

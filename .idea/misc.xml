@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Guillaume/AndroidStudioProjects/calculette_g3-master/app/src/main/res/layout/activity_calcul.xml" value="0.2" />
+        <entry key="..\:/Users/Guillaume/AndroidStudioProjects/calculette_g3-master/app/src/main/res/layout/activity_last_compute.xml" value="0.2" />
+        <entry key="..\:/Users/Guillaume/AndroidStudioProjects/calculette_g3-master/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Guillaume/AndroidStudioProjects/calculette_g3-master/app/src/main/res/layout/activity_scoreboard.xml" value="0.176" />
+        <entry key="..\:/Users/Guillaume/AndroidStudioProjects/calculette_g3-master/app/src/main/res/layout/nouvelle_partie.xml" value="0.2" />
+        <entry key="..\:/Users/Guillaume/AndroidStudioProjects/projet/app/src/main/res/layout/activity_last_compute.xml" value="0.2" />
+        <entry key="..\:/Users/Guillaume/AndroidStudioProjects/projet/app/src/main/res/layout/activity_main.xml" value="0.14947916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
